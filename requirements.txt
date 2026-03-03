@@ -1,0 +1,8 @@
+streamlit
+PyPDF2
+python-docx
+langchain-community
+langchain-text-splitters
+google-generativeai
+sentence-transformers
+faiss-cpu

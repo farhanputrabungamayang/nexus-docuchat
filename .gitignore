@@ -1,0 +1,6 @@
+# Jangan upload rahasia negara & file berat!
+.streamlit/
+venv/
+__pycache__/
+faiss_index/
+.DS_Store
